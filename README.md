@@ -5,3 +5,5 @@ Practice project to build a full React app supported by a backend that will use 
 ## Acknowledgements
 
 ZeroToMastery course
+
+Includes React frontend and Node backend.
